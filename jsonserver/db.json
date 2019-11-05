@@ -1,0 +1,299 @@
+{
+  "Customers": [
+    {
+      "id": 3,
+      "hoten": "dinhphong",
+      "gioitinh": "nam",
+      "email": "daila@gmail.com",
+      "ngaysinh": "1990-12-16T17:00:00.000Z",
+      "diachi": "daila hoa son"
+    },
+    {
+      "hoten": "dailale",
+      "gioitinh": "Nam",
+      "email": "daila@gmail.com",
+      "ngaysinh": "2019-10-16T17:00:00.000Z",
+      "diachi": "quan nam da nang",
+      "id": 9
+    },
+    {
+      "hoten": "hoan do",
+      "gioitinh": "Nam",
+      "email": "hoanh@gmail.com",
+      "ngaysinh": "2019-10-13T17:00:00.000Z",
+      "diachi": "sai gon viet nam",
+      "id": 10
+    },
+    {
+      "hoten": "thuc tinh",
+      "gioitinh": "Nữ",
+      "email": "thuc tinh@gmail.com",
+      "ngaysinh": "2019-10-09T17:00:00.000Z",
+      "diachi": "sai gon viet nam",
+      "id": 11
+    },
+    {
+      "hoten": "thuc tinh",
+      "gioitinh": "Nữ",
+      "email": "thuc tinh@gmail.com",
+      "ngaysinh": "2019-10-09T17:00:00.000Z",
+      "diachi": "sai gon viet nam",
+      "id": 12
+    },
+    {
+      "hoten": "tan dat",
+      "gioitinh": "Nam",
+      "email": "dat@gmail.com",
+      "ngaysinh": "2019-11-09T17:00:00.000Z",
+      "diachi": "nui thanh quan anm",
+      "id": 13
+    }
+  ],
+  "Employeer": [
+    {
+      "manv": "NV0003",
+      "hoten": "duong thi thu",
+      "gioitinh": "Nữ",
+      "email": "thithu2@gmail.com",
+      "ngaysinh": "2018-12-31T17:00:00.000Z",
+      "diachi": "dai la hoa son",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "123456789",
+      "id": 18
+    },
+    {
+      "manv": "NV0001",
+      "hoten": "le van vu",
+      "gioitinh": "Nam",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-26T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 19
+    },
+    {
+      "manv": "NV0003",
+      "hoten": "le van tuan",
+      "gioitinh": "Nam",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 20
+    },
+    {
+      "manv": "NV0002",
+      "hoten": "thi thu",
+      "gioitinh": "Nữ",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 21
+    },
+    {
+      "manv": "NV0002",
+      "hoten": "le van chuong",
+      "gioitinh": "Nam",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 22
+    },
+    {
+      "manv": "NV0002",
+      "hoten": "le van chuong",
+      "gioitinh": "Nam",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 23
+    },
+    {
+      "manv": "NV0002",
+      "hoten": "le van chuong",
+      "gioitinh": "Nam",
+      "email": "chuonglevan@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "quan tri",
+      "bophan": "quan li",
+      "socmnn": "123456789",
+      "dienthoai": "0905675674",
+      "id": 24
+    },
+    {
+      "manv": "NV0003",
+      "hoten": "dai thang",
+      "gioitinh": "Nam",
+      "email": "thang@gmail.com",
+      "ngaysinh": "2019-11-18T17:00:00.000Z",
+      "diachi": "sai gon viet nam",
+      "bophan": "truong phong",
+      "socmnn": "234567890",
+      "dienthoai": "23456677",
+      "id": 25
+    },
+    {
+      "manv": "NV0004",
+      "hoten": "duong hung",
+      "gioitinh": "Nam",
+      "email": "hung@gmail.com",
+      "ngaysinh": "2019-11-19T17:00:00.000Z",
+      "diachi": "le thuy quan binh",
+      "bophan": "quan li",
+      "socmnn": "554545454",
+      "dienthoai": "454545454",
+      "id": 26
+    },
+    {
+      "manv": "NV0090",
+      "hoten": "van vu",
+      "gioitinh": "Nam",
+      "email": "vu@gmail.com",
+      "ngaysinh": "2019-11-12T17:00:00.000Z",
+      "diachi": "dai la",
+      "bophan": "quan li",
+      "socmnn": 545454445,
+      "dienthoai": null,
+      "id": 27
+    }
+  ],
+  "manageservice": [
+    {
+      "id": 5,
+      "madv": "DV000",
+      "tendichvu": "villa001",
+      "dientich": 1200000,
+      "sotang": 4,
+      "songuoitoida": 30,
+      "trangthai": "còn trống",
+      "giathue": 250000000,
+      "idtype": 2
+    },
+    {
+      "id": 6,
+      "madv": "DV002",
+      "tendichvu": "room02",
+      "dientich": 1200000,
+      "sotang": 4,
+      "songuoitoida": 30,
+      "trangthai": "danthue",
+      "giathue": 250000000,
+      "idtype": 2
+    },
+    {
+      "madv": "DV003",
+      "tendichvu": "houser003",
+      "dientich": 250000,
+      "sotang": "7",
+      "songuoitoida": "41",
+      "trangthai": "trong",
+      "giathue": "340000000",
+      "idtype": 3,
+      "id": 7
+    },
+    {
+      "madv": "DV004",
+      "tendichvu": "room005",
+      "dientich": 2100000,
+      "sotang": "4",
+      "songuoitoida": "23",
+      "trangthai": "trong",
+      "giathue": "2300000",
+      "idtype": 2,
+      "id": 8
+    },
+    {
+      "madv": "DV005",
+      "tendichvu": "villla02",
+      "dientich": 222222224,
+      "sotang": "3",
+      "songuoitoida": "34",
+      "trangthai": "dan thue",
+      "giathue": "344455555",
+      "idtype": 1,
+      "id": 9
+    },
+    {
+      "madv": "DV006",
+      "tendichvu": "villa02",
+      "dientich": 32000,
+      "sotang": "5",
+      "songuoitoida": "43",
+      "trangthai": "danthue",
+      "giathue": "4500000",
+      "idtype": 1,
+      "id": 10
+    }
+  ],
+  "Constract": [
+    {
+      "id": 2,
+      "mahd": "HD001",
+      "idcustomer": 1,
+      "ngaybatdau": "2019-10-09T17:00:00.000Z",
+      "ngayketthuc": "2019-20-09T17:00:00.000Z",
+      "tiendatcoc": 3300000,
+      "tongtien": 5000000,
+      "hinhthucthanhtoan": "cod",
+      "note": "dich vu hop li"
+    },
+    {
+      "id": 3,
+      "idcustomer": 1,
+      "mahd": "HD002",
+      "ngaybatdau": "2019-10-09T17:00:00.000Z",
+      "ngayketthuc": "2019-20-09T17:00:00.000Z",
+      "tiendatcoc": 25300000,
+      "tongtien": 5000000,
+      "hinhthucthanhtoan": "cod",
+      "note": "dich vu hop li"
+    },
+    {
+      "id": 5,
+      "idcustomer": 1,
+      "mahd": "HD003",
+      "ngaybatdau": "2019-10-09T17:00:00.000Z",
+      "ngayketthuc": "2019-20-09T17:00:00.000Z",
+      "tiendatcoc": 2300000,
+      "tongtien": 12000000,
+      "hinhthucthanhtoan": "cod",
+      "note": "dich vu hop li"
+    },
+    {
+      "id": 6,
+      "idcustomer": 2,
+      "mahd": "HD004",
+      "ngaybatdau": "2019-10-09T17:00:00.000Z",
+      "ngayketthuc": "2019-20-09T17:00:00.000Z",
+      "tiendatcoc": 2300000,
+      "tongtien": 34000000,
+      "hinhthucthanhtoan": "cod",
+      "note": "dich vu hop li"
+    },
+    {
+      "idcustomer": "2",
+      "mahd": "HD005",
+      "ngaybatdau": "2019-10-01T17:00:00.000Z",
+      "ngayketthuc": "2019-10-02T17:00:00.000Z",
+      "tiendatcoc": "2300000",
+      "tongtien": "6900000",
+      "hinhthucthanhtoan": "cod",
+      "note": "dich vu hap dan",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.navbar{
+    min-height: 50px !important;
+    margin-bottom:0;
+    border-radius:0;
+    background-color: #e74c3c;
+  border-color: #c0392b;
+  }
+  #header{
+    background:#333333;
+    color:#ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+  
+  #header .create{
+    padding-top: 20px;
+  }
+  
+  /* Breadcrumb */
+  
+  
